@@ -1,11 +1,14 @@
 # PROJECT_AKHIR_KELOMPOK_7
 
 DWI FEBRIANTO PRADANA 2409116012
+
 ISRINA LUTFIAH 2409116003
+
 MUHAMMAD SADIKIN SAMIR 2409116031
 
 TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 # FLOWCHART
 
-![project akhir-Page-1 drawio (1)](https://github.com/user-attachments/assets/bc26934f-a8ce-43dc-a8f5-7733556ee079)
+![project akhir-Page-1 drawio (1)](https://github.com/user-attachments/assets/bc6092bc-7dcc-4551-b2f4-e03c88c0762d)
+
