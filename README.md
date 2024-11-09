@@ -25,7 +25,7 @@ MUHAMMAD SADIKIN SAMIR | 2409116031
 
   ![image](https://github.com/user-attachments/assets/407de429-82b2-4138-8184-89b2be69830b)
 
-  saat memulai Program user akan di ucapkan selamat datang,, kemudian diminta untuk menginput angka berapa untuk memlih role.
+  Saat memulai Program user akan disambut dengan ucapan selamat datang,, kemudian diminta untuk menginput angka yang diinginkan untuk memlih role.
 
   - Admin dengan role ini user dapat melakukan Create, Read, Update, dan Delete (CRUD) pada sistem pengelolaan tiket event konser.
   - Pengguna dengan role ini user dapat membuat akun, melihat list konser, melakukan transaksi pembelian tiket, dan Top up E-Money.
@@ -36,13 +36,13 @@ MUHAMMAD SADIKIN SAMIR | 2409116031
   
   ![Screenshot 2024-11-07 215706](https://github.com/user-attachments/assets/0cd0b377-4af3-4c5d-a74d-007d746573b3)
 
-  Apabila user menginput angka "1" maka akan masuk ke role admin dan diminta untuk memasukkan Username dan Password.
+  Apabila user menginput angka "1" maka akan masuk ke role admin dan diminta untuk memasukkan Username dan Password dengan benar.
 
  ![Cuplikan layar 2024-11-09 131511](https://github.com/user-attachments/assets/5a13bf30-f547-4505-a5e2-f01da85f847e)
   
 ![Cuplikan layar 2024-11-09 131540](https://github.com/user-attachments/assets/19b2763e-772b-453c-b21a-0e0a6ab0432b)
 
-apa bila user tidak benar memasukan nama dan password maka sistem akan memberi tau bahwa nama tidak tersedia, dan jika hanya salah password maka akan diberi tahu password salah. jika terjadi kesalahan user akan ditawari apakah ingin lanjut mencoba login atau kembali. jika lanjut maka user akan diminta memasukan username dan password lagi, jika kembali maka user akan kembali ke menu pilih role.
+apabila user tidak benar memasukan username dan password maka sistem akan memberi tahu bahwa nama tidak tersedia, dan jika hanya salah password maka akan diberi tahu password salah. jika terjadi kesalahan user akan diberi pilihan apakah ingin lanjut mencoba login atau kembali. jika lanjut maka user akan diminta memasukan username dan password lagi, jika kembali maka user akan kembali ke menu pilih role.
 
 ### b. Menu admin
 
@@ -54,17 +54,17 @@ apa bila user tidak benar memasukan nama dan password maka sistem akan memberi t
 
   ![Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
 
-  Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
+  Jika menginput "1" maka akan masuk ke menu Lihat Event Konser dengan menampilkan List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket  dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
 ![Screenshot 2024-11-08 235412](https://github.com/user-attachments/assets/54b6cc2e-8e43-401c-9c99-73889d117caf)
 
 ![Screenshot 2024-11-08 235417](https://github.com/user-attachments/assets/97ac2088-4867-4fc4-abe2-742adddacfd5)
 
-  Jika meenginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah dan tertinggi ataupun sebaliknya jika menginput "2" yaitu Harga tertinggi ke terendah, maka akan disorting mulai dari harga tertinggi ke terendah.
+  Jika menginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah sampai harga tertingggi ataupun sebaliknya jika menginput "2" maka akan disorting mulai dari harga tertinggi ke terendah.
 
   ![image](https://github.com/user-attachments/assets/84a7401b-7826-415c-ae21-d941cced2fda)
 
-  Jika mengiput "3" yaitu kembali, maka admin akan kembali ke "MENU ADMIN".
+  Jika mengiput "3"  yaitu kembali, maka akan kembali ke "MENU ADMIN".
   
   - Tambah event konser
 
@@ -98,7 +98,7 @@ apa bila user tidak benar memasukan nama dan password maka sistem akan memberi t
 
   ![Screenshot 2024-11-09 000737](https://github.com/user-attachments/assets/f767829f-802f-4c1e-b63c-0435f338af56)
 
-  Jika menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan ID berapa pada list konser yang ingin dihapus.
+  Jika menginput "4" yaitu Hapus Event Konser, maka admin diminta memasukkan ID dan list konser mana  yang ingin dihapus.
 
   ![Screenshot 2024-11-09 000742](https://github.com/user-attachments/assets/2440d542-4802-486c-a780-20ed55314477)
 
@@ -132,7 +132,7 @@ apa bila user tidak benar memasukan nama dan password maka sistem akan memberi t
 
   ![Screenshot 2024-11-08 063543](https://github.com/user-attachments/assets/e3eb6307-5136-4c91-be2b-bdf44ec45b2f)
 
-  Setelah username dan password yang ingin dibuat dimasukkan, maka akan muncul pemberitahuan bahwa Akun berhasil dibuat.
+  Setelah menginputkan username dan password yang ingin dibuat, maka akan muncul pemberitahuan bahwa Akun berhasil dibuat.
 
 
   - Login
@@ -140,29 +140,29 @@ apa bila user tidak benar memasukan nama dan password maka sistem akan memberi t
   ![Screenshot 2024-11-08 074909](https://github.com/user-attachments/assets/bc540062-4f14-49d8-a748-2c6cdc52ff67)
 
 
-  Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
+  Jika menginput angka "1" yaitu Login, Maka pengguna diminta  untuk memasukkan username dan password pengguna.
 
 #### a. Menu pengguna
 
   ![Screenshot 2024-11-08 074916](https://github.com/user-attachments/assets/40a18027-2d69-4b2a-bd82-e94ce947fdb9)
 
-  Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA" dan pengguna dapat memasukkan angka berapa pada menu yang ingin dituju.
+  Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA" dan pengguna dapat memasukkan angka yang diinginkan pada menu yang ingin dituju.
 
   - Lihat event konser
 
 ![image](https://github.com/user-attachments/assets/38499351-c1f2-4860-99ea-38ba5b25808d)
 
-  Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
+  Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilka  dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
 ![Screenshot 2024-11-08 235412](https://github.com/user-attachments/assets/54b6cc2e-8e43-401c-9c99-73889d117caf)
 
 ![Screenshot 2024-11-08 235417](https://github.com/user-attachments/assets/97ac2088-4867-4fc4-abe2-742adddacfd5)
 
-  Jika meenginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah dan tertinggi ataupun sebaliknya jika menginput "2" yaitu Harga tertinggi ke terendah, maka akan disorting mulai dari harga tertinggi ke terendah.
+  Jika meenginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah ke tertinggi ataupun sebaliknya jika menginput "2" yaitu dari Harga tertinggi ke terendah, maka akan disorting mulai dari harga tertinggi ke terendah.
 
   ![image](https://github.com/user-attachments/assets/84a7401b-7826-415c-ae21-d941cced2fda)
 
-  Jika mengiput "3" yaitu kembali, maka admin akan kembali ke "MENU PENGGUNA".
+  Jika mengiput "3" yaitu kembali, maka  akan kembali ke "MENU PENGGUNA".
 
   - Beli tiket event konser
 
@@ -216,17 +216,17 @@ apa bila user tidak benar memasukan nama dan password maka sistem akan memberi t
 
   Jika menginput "5" yaitu Logout, maka pengguna akan keluar dan kembali ke menu login pengguna.
 
-## Role Pengujung
+## Role Pengunjung
 
 ![Cuplikan layar 2024-11-09 132713](https://github.com/user-attachments/assets/5c07737f-06db-418a-ace7-24862793221c)
 
-  Jika menginput "3" yaitu pengunjung maka list konser akan langsung ditampilkan, setelah list konser ditampilkan maka pengunjung akan ditanya apakah ingin login sebagai pengguna atau tidak, jika menginput "Login" maka akan masuk ke menu login pengguna, namun jika menginput "Kembali" maka akan kembali ke menu pilih role.
+  Jika menginput "3" yaitu menu pengunjung maka list konser akan langsung ditampilkan, setelah list konser ditampilkan maka pengunjung akan ditanya apakah ingin login sebagai pengguna atau tidak, jika menginput "Login" maka akan masuk ke menu login pengguna, namun jika menginput "Kembali" maka akan kembali ke menu awal pilih role.
 
   ### 4. Keluar
 
 ![Screenshot 2024-11-09 002513](https://github.com/user-attachments/assets/5b521f62-1007-478e-9378-fc0216864a78)
 
-  Jika menginput "4" yaitu keluar maka, user akan keluar dari program.
+  Jika menginput "4" yaitu keluar maka, program otomatis berhenti  dan user akan keluar dari program.
 
 
 
